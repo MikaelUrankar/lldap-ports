@@ -1,0 +1,4 @@
+bin/lldap
+bin/lldap_migration_tool
+bin/lldap_set_password
+@sample %%ETCDIR%%/lldap_config.toml.sample
