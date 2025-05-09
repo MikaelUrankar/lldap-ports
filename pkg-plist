@@ -1,0 +1,20 @@
+bin/lldap
+bin/lldap_migration_tool
+bin/lldap_set_password
+@sample %%ETCDIR%%/lldap_config.toml.sample
+lib/lldap/app/index.html
+lib/lldap/app/pkg/lldap_app.d.ts
+lib/lldap/app/pkg/lldap_app.js
+lib/lldap/app/pkg/lldap_app_bg.wasm
+lib/lldap/app/pkg/lldap_app_bg.wasm.d.ts
+lib/lldap/app/pkg/lldap_app_bg.wasm.gz
+lib/lldap/app/pkg/package.json
+lib/lldap/app/static/fonts.css
+lib/lldap/app/static/fonts/fonts.txt
+lib/lldap/app/static/libraries.txt
+lib/lldap/app/static/main.js
+lib/lldap/app/static/spinner.gif
+lib/lldap/app/static/style.css
+lib/lldap/lldap
+lib/lldap/lldap_migration_tool
+lib/lldap/lldap_set_password

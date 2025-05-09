@@ -1,0 +1,10 @@
+--- Cargo.toml	2025-05-09 14:11:18 UTC
++++ Cargo.toml
+@@ -17,5 +17,5 @@ opt-level = 's'
+ [profile.release.package.lldap_app]
+ opt-level = 's'
+ 
+-[patch.crates-io.lber]
+-git = 'https://github.com/inejge/ldap3/'
++[patch.crates-io]
++lber = { git = 'https://github.com/inejge/ldap3/' }
